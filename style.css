@@ -1,0 +1,63 @@
+.styleDelBtn{
+    color: blue;
+    background-color: azure;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+}
+.addTask{
+    color: yellow;
+    background-color: #00c;
+    font-size: 20px;
+    font-weight: 700;
+
+margin-left: 10px;
+border-radius: 5px;
+cursor:pointer;
+border: none;
+}
+
+.styleInput{
+    width: 15rem;
+    height: 2rem;
+
+    color: yellow;
+    background-color: #222222;
+  
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #121212;
+    
+}
+h1{
+    color: blue;
+    font-size: 50px;
+}
+
+.styleList{
+    color:yellow;
+    font-size: 30px;
+    font-weight: 700;
+    
+    list-style-type: start ;
+  
+}
+
+.box{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+
+}
+ul{
+    position: absolute;
+    left: 40%;
+}
+
+body{
+    background-color: #535A3B;
+}
